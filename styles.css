@@ -1,0 +1,15 @@
+.container {
+  max-width: 360px; 
+  margin: 5rem auto 5rem auto;
+  box-sizing: border-box;
+}
+.input-group-text {
+    width: 80px;
+}
+
+@media screen and (max-width: 932px) {
+  .container {
+    max-width: 768px;
+  }
+    
+}
